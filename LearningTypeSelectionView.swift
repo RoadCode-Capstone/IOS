@@ -1,5 +1,5 @@
 //
-//  LearingTypeSelectionView.swift
+//  LearningTypeSelectionView.swift
 //  RoadCode
 //
 //
